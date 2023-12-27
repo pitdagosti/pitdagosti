@@ -12,6 +12,8 @@ Be my guest and grab a cup of tea :tea:
 
 ## Fun projects I've been working on ☀️
 
+* [FREISA](https://github.com/B-AROL-O/FREISA) from the team [B-AROL-O](https://github.com/B-AROL-O)
+* Industrial Ph.D. in Computer and Control Engineering at [Politecnico di Torino - DAUIN](https://www.dauin.polito.it/) and [AROL Closure Systems](https://www.arol.com/en/)
 * [ARNEIS](https://github.com/B-AROL-O/ARNEIS) (finalist to the [OpenCV Spatial AI Contest](https://opencv.org/opencv-spatial-ai-contest/)) from the team [B-AROL-O](https://github.com/B-AROL-O)
 * Master Thesis in Mechatronics Engineering with the collaboration of [Politecnico di Torino - DAUIN](https://www.dauin.polito.it/) and [AROL Closure Systems](https://www.arol.com/en/)
 
