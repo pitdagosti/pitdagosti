@@ -9,7 +9,7 @@ Below you'll find some of the projects I've worked on, from concept to execution
 
 ### 🐾 **FREISA** – *Four-legged Robot Ensuring Intelligent Sprinkler Automation*  
 A quadruped robot designed for autonomous irrigation in smart agriculture.  
-**Role:** Project Manager, CMO. I created system models using SysML and handled all visuals (videos, images, logos). I was also in charge of the
+**Role:** Project Manager, CMO. I created system models using SysML and handled all visuals (videos, images, logos). Helped in the development of the computer vision algorithm using RoBoFlow. I was also in charge of the
 relationship with Seeed Studio and the collaboration we had.  
 - 🏆 *Grand Prize Winner – OpenCV AI Competition 2023*  
 - 🔗 [GitHub Repository](https://github.com/B-AROL-O/FREISA)  
