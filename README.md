@@ -62,7 +62,7 @@ A smart assistant that tracks habits and encourages behavior change through AI-p
 
 ## 📬 Contacts
 
-- [LinkedIn](https://www.linkedin.com/in/pietro-d-agostino-9b8199212/)  
+- [LinkedIn](https://www.linkedin.com/in/pietro-d-agostino-phd/)  
 - [Instagram](https://www.instagram.com/pit.dago)  
 - [Hackster.io](https://www.hackster.io/pietro-d-agostino2)  
 - 📧 **Email:** pietro.dagostino@outlook.com
