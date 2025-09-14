@@ -19,7 +19,7 @@ relationship with Seeed Studio and the collaboration we had.
 ---
 
 ### 🐶 **FREISA-GPT** – Voice-Enabled Robotic Assistant
-An evolution of FREISA, developed for the OpenAI Open Model Hackathon.
+An evolution of FREISA, developed for the OpenAI Open Model Hackathon. FREISA GPT is a robotic puppy powered by gpt-oss-20b, capable of listening to voice commands, generating responses, and acting accordingly. It can perform physical actions through ROS (e.g., moving, rotating) and express emotions via a state manager controlling faces and sounds.  
 **Role**: Project Manager, CMO. I curated visuals, documentation, and worked on the architecture definition.
 - 🔗 [GitHub Repository](https://github.com/B-AROL-O/FREISA)
 - 🔗 [Devpost OpenAI Open Model Hackaton](https://devpost.com/software/todo-hsifwn)
