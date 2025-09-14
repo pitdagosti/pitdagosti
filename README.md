@@ -18,6 +18,14 @@ relationship with Seeed Studio and the collaboration we had.
 
 ---
 
+### 🐶 **FREISA-GPT** – Voice-Enabled Robotic Assistant
+An evolution of FREISA, developed for the OpenAI Open Model Hackathon.
+**Role**: Project Manager, CMO. I curated visuals, documentation, and worked on the architecture definition.
+- 🔗 [GitHub Repository](https://github.com/B-AROL-O/FREISA)
+- 🔗 [Devpost OpenAI Open Model Hackaton](https://devpost.com/software/todo-hsifwn)
+
+---
+
 ### 🍾 **ARNEIS** – *Automated Recognizer, Network-Enabled, Item Sorter*  
 An indoor mobile robot using Spatial AI and SLAM for real-time navigation and item recognition.  
 **Role:** CMO. Created all visual content (videos, images, logos).  
