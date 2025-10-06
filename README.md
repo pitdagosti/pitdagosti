@@ -29,6 +29,7 @@ An evolution of FREISA, developed for the OpenAI Open Model Hackathon. FREISA GP
 MoodSip is a smart water bottle that combines hydration tracking with emotion detection to promote both physical and mental well-being.  
 Powered by Arduino Nicla Vision and FocoosAI, MoodSip detects stress through facial expressions and adapts hydration reminders based on mood, temperature, and drinking behavior — all running fully offline.  
 **Role**: Project Leader, Embedded Software Developer, Machine learning Engineer
+- 🥉 *Arduino Award – tiny_hack 2025*  
 - 🔗 [Tiny_hack official repository](https://github.com/MirkoCalvi/tiny_hack/tree/main/docs)
 - 🔗 [GitHub Repository](https://github.com/B-AROL-O/MoodSip/tree/main)
 - 🔗 [Prototype video](https://youtu.be/YI3l9gEI9GM)
