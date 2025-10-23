@@ -5,7 +5,23 @@ Welcome to my GitHub profile — make yourself at home and grab a cup of tea ☕
 I'm Pietro, a Mechatronics Engineer and Ph.D. student passionate about robotics, AI, and embedded systems.  
 Below you'll find some of the projects I've worked on, from concept to execution, including system design, visuals, and development.
 
-## 🔧 Projects
+## 🎓 PhD Projects
+### 🌡️ **LSTM Temperature Prediction**  
+A PhD project implementing a **Long Short-Term Memory (LSTM)** model, converted to TensorFlow Lite, to predict future temperature values in real-time via TCP connection. The model uses past temperature data in a sliding window to generate accurate forecasts, optimized for edge devices.  
+**Role:** Researcher & Developer. Designed the model architecture, implemented the inference pipeline, and evaluated prediction performance.  
+- 🔗 [GitHub Repository](https://github.com/arol-polito/LSTM_docker/tree/main)  
+- 🔗 [Related Publication – IEEEXplore](https://ieeexplore-ieee-org.ezproxy.biblio.polito.it/document/10711142)  
+- 🔗 [Related Publication – MDPI Electronics](https://www.mdpi.com/2079-9292/14/1/24)
+
+
+
+### ⚡ Acceleration Prediction
+This project involves predicting acceleration patterns for dynamic systems, leveraging AI models to enhance real-time monitoring and control.  
+**Role:** Researcher & Developer. Designed model architectures, trained datasets, and evaluated predictive performance.  
+- 🔗 [GitHub Repository](#)
+
+
+## 🔧 Fun Projects
 
 ### 🐾 **FREISA** – *Four-legged Robot Ensuring Intelligent Sprinkler Automation*  
 A quadruped robot designed for autonomous irrigation in smart agriculture.  
