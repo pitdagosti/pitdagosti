@@ -16,10 +16,9 @@ A PhD project implementing a **Long Short-Term Memory (LSTM)** model, converted 
 ### ⚡ Hybrid Vibration-Based Anomaly Detection System
 
 This project introduces a hybrid, data-driven framework for vibration-based anomaly detection in industrial capping machinery. Developed in collaboration with **AROL Closure Systems**, the system combines signal processing, statistical analysis, and deep learning to detect both temporal and punctual anomalies under real production conditions.
-**Role:** Researcher & Developer — designed the anomaly detection pipeline, implemented signal processing techniques, developed deep learning models (LSTM, Autoencoder), and evaluated system performance across multiple fault scenarios.
-
-📂 **GitHub Repository:** [https://github.com/arol-polito/hybrid-vibration-system-study/tree/main](https://github.com/arol-polito/hybrid-vibration-system-study/tree/main)
-📄 **Published Paper:** [https://iris.polito.it/handle/11583/3002793](https://iris.polito.it/handle/11583/3002793)
+**Role:** Researcher & Developer — designed the anomaly detection pipeline, implemented signal processing techniques, developed deep learning models (LSTM, Autoencoder), and evaluated system performance across multiple fault scenarios.  
+- 🔗 [GitHub Repository](https://github.com/arol-polito/hybrid-vibration-system-study/tree/main)  
+- 🔗 [Related Publication - TBP IEEXplore](https://iris.polito.it/handle/11583/3002793)  
 
 ## 🔧 Fun Projects
 
