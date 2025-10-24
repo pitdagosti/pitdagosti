@@ -7,19 +7,19 @@ Below you'll find some of the projects I've worked on, from concept to execution
 
 ## 🎓 PhD Projects
 ### 🌡️ **LSTM Temperature Prediction**  
-A PhD project implementing a **Long Short-Term Memory (LSTM)** model, converted to TensorFlow Lite, to predict future temperature values in real-time via TCP connection. The model uses past temperature data in a sliding window to generate accurate forecasts, optimized for edge devices.  
+A PhD project implementing a **Long Short-Term Memory (LSTM)** model, converted to TensorFlow Lite, to predict future temperature values in real-time via TCP connection. Developed in collaboration with **AROL Closure Systems**, the model uses past temperature data in a sliding window to generate accurate forecasts, optimized for edge devices.  
 **Role:** Researcher & Developer. Designed the model architecture, implemented the inference pipeline, and evaluated prediction performance.  
 - 🔗 [GitHub Repository](https://github.com/arol-polito/LSTM_docker/tree/main)  
 - 🔗 [Related Publication – IEEEXplore](https://ieeexplore-ieee-org.ezproxy.biblio.polito.it/document/10711142)  
 - 🔗 [Related Publication – MDPI Electronics](https://www.mdpi.com/2079-9292/14/1/24)
 
+### ⚡ Hybrid Vibration-Based Anomaly Detection System
 
+This project introduces a hybrid, data-driven framework for vibration-based anomaly detection in industrial capping machinery. Developed in collaboration with **AROL Closure Systems**, the system combines signal processing, statistical analysis, and deep learning to detect both temporal and punctual anomalies under real production conditions.
+**Role:** Researcher & Developer — designed the anomaly detection pipeline, implemented signal processing techniques, developed deep learning models (LSTM, Autoencoder), and evaluated system performance across multiple fault scenarios.
 
-### ⚡ Acceleration Prediction
-This project involves predicting acceleration patterns for dynamic systems, leveraging AI models to enhance real-time monitoring and control.  
-**Role:** Researcher & Developer. Designed model architectures, trained datasets, and evaluated predictive performance.  
-- 🔗 [GitHub Repository](#)
-
+📂 **GitHub Repository:** [https://github.com/arol-polito/hybrid-vibration-system-study/tree/main](https://github.com/arol-polito/hybrid-vibration-system-study/tree/main)
+📄 **Published Paper:** [https://iris.polito.it/handle/11583/3002793](https://iris.polito.it/handle/11583/3002793)
 
 ## 🔧 Fun Projects
 
