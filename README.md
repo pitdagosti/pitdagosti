@@ -25,7 +25,7 @@ This project introduces a hybrid, data-driven framework for vibration-based anom
 ### 👨‍🏫 **AGERE** – Technical Interview Performance Simulator
 
 A platform that replicates a **realistic technical job interview** and gives you an objective performance score: reasoning quality, correctness, robustness, and response time.
-Its purpose is simple: eliminate the illusion of “feeling prepared” and show you **how you would actually perform**.
+Its purpose is simple: eliminate the illusion of “feeling prepared” and show you **how you would actually perform**.  
 **Role:** Project manager, Artificial Intelligent Engineer, Developer, CMO
 - 🔗 [GitHub Repository](https://github.com/pitdagosti/agere-capstone-project-google-kaggle)  
 - 🔗 [Kaggle Project](https://www.kaggle.com/competitions/agents-intensive-capstone-project/writeups/agere-agentic-recruiter)  
@@ -36,7 +36,7 @@ Its purpose is simple: eliminate the illusion of “feeling prepared” and show
 ### 🧩 **RUCHE** – LLM/ROS Orchestration Framework
 
 A modular framework for orchestrating LLM agents, custom tools, and ROS2 components within a single experimental pipeline.
-It’s your testing ground for rapidly evaluating complex integrations and intelligent workflows.
+It’s your testing ground for rapidly evaluating complex integrations and intelligent workflows.  
 **Role:** Developer, CMO and system engineer
 - 🔗 [GitHub Repository](https://github.com/B-AROL-O/RUCHE)  
 - 🔗 [Hugging Face Space](https://huggingface.co/spaces/MCP-1st-Birthday/RUCHE)  
