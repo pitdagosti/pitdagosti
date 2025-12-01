@@ -22,6 +22,28 @@ This project introduces a hybrid, data-driven framework for vibration-based anom
 
 ## 🔧 Fun Projects
 
+### 👨‍🏫 **AGERE** – Technical Interview Performance Simulator
+
+A platform that replicates a **realistic technical job interview** and gives you an objective performance score: reasoning quality, correctness, robustness, and response time.
+Its purpose is simple: eliminate the illusion of “feeling prepared” and show you **how you would actually perform**.
+**Role:** Project manager, Artificial Intelligent Engineer, Developer, CMO
+- 🔗 [GitHub Repository](https://github.com/pitdagosti/agere-capstone-project-google-kaggle)  
+- 🔗 [Kaggle Project](https://www.kaggle.com/competitions/agents-intensive-capstone-project/writeups/agere-agentic-recruiter)  
+- 🔗 [AGERE - Google/Kaggle Capstone Project](https://www.youtube.com/watch?v=pnCnia1M5jQ)
+
+---
+
+### 🧩 **RUCHE** – LLM/ROS Orchestration Framework
+
+A modular framework for orchestrating LLM agents, custom tools, and ROS2 components within a single experimental pipeline.
+It’s your testing ground for rapidly evaluating complex integrations and intelligent workflows.
+**Role:** Developer, CMO and system engineer
+- 🔗 [GitHub Repository](https://github.com/B-AROL-O/RUCHE)  
+- 🔗 [Hugging Face Space](https://huggingface.co/spaces/MCP-1st-Birthday/RUCHE)  
+- 🔗 [RUCHE - B-AROL-O Team response to MCP-1st-Birthday Hackathon](https://www.youtube.com/watch?v=KETZLLcVxys)
+
+---
+
 ### 🐾 **FREISA** – *Four-legged Robot Ensuring Intelligent Sprinkler Automation*  
 A quadruped robot designed for autonomous irrigation in smart agriculture.  
 **Role:** Project Manager & CMO. Designed system models in SysML and managed all visual assets (videos, images, logos). Contributed to the development of the computer vision algorithm with RoBoFlow. Oversaw the partnership with Seeed Studio.
