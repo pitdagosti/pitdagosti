@@ -5,6 +5,7 @@ Welcome to my GitHub profile — make yourself at home and grab a cup of tea ☕
 I'm Pietro, a Mechatronics Engineer and Ph.D. student passionate about robotics, AI, and embedded systems.  
 Below you'll find some of the projects I've worked on, from concept to execution, including system design, visuals, and development.
 
+<!--
 ## 🎓 PhD Projects
 ### 🌡️ **LSTM Temperature Prediction**  
 A PhD project implementing a Long Short-Term Memory (LSTM) model, converted to TensorFlow Lite, to predict future temperature values in real-time via TCP connection. Developed in collaboration with AROL Closure Systems, the model uses past temperature data in a sliding window to generate accurate forecasts, optimized for edge devices.  
@@ -19,6 +20,7 @@ This project introduces a hybrid, data-driven framework for vibration-based anom
 **Role:** Researcher & Developer — designed the anomaly detection pipeline, implemented signal processing techniques, developed deep learning models (LSTM, Autoencoder), and evaluated system performance across multiple fault scenarios.  
 - 🔗 [GitHub Repository](https://github.com/arol-polito/hybrid-vibration-system-study/tree/main)  
 - 🔗 [Related Publication - TBP IEEXplore](https://iris.polito.it/handle/11583/3002793)  
+-->
 
 ## 🔧 Fun Projects
 
